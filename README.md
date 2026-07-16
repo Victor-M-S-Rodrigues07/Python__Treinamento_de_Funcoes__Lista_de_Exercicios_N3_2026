@@ -26,7 +26,6 @@ Entre as diversas formas de aprendizagem, a prática constante está entre as ma
 
 > [!NOTE]
 > Todos os 10 (dez) casos e os objetivos de aprendizagem foram criados pela *Alura* no curso *Praticando Python: Funções* (Link disponível na seção de contatos), enquanto as resoluções apresentadas, e a redação e organização do README são de minha autoria, compartilhadas para fins acadêmicos e demonstração profissional.
-
 <br>
 
 ## 🎯 Objetivos do Treinamento
