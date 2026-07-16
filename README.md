@@ -10,13 +10,13 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-descri%C3%A7%C3%A3o-da-lista)
-- [🎯 Objetivos do Treinamento](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-objetivos-da-lista)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-tecnologias-utilizadas)
-- [🧩 Exercícios](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-exerc%C3%ADcios)
-- [📂 Estrutura da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-estrutura-da-lista)
-- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#autor)
-- [👨🏻‍💻 Contatos](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#%E2%80%8D-contatos--refer%C3%AAncias)
+- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#-descri%C3%A7%C3%A3o-da-lista)
+- [🎯 Objetivos do Treinamento](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#-objetivos-do-treinamento)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#-tecnologias-utilizadas)
+- [🧩 Exercícios](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#-exerc%C3%ADcios)
+- [📂 Estrutura da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#-estrutura-da-lista)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#autor)
+- [👨🏻‍💻 Contatos & Referências](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Funcoes__Lista_de_Exercicios_N3_2026#%E2%80%8D-contatos--refer%C3%AAncias)
 
 ## 📝 Descrição da Lista
 
@@ -25,7 +25,9 @@ Todo programa é composto por várias partes pequenas que, juntas, formam uma so
 Entre as diversas formas de aprendizagem, a prática constante está entre as mais eficiêntes para consolidar conhecimentos e é buscando aprofundar e treinar o conhecimento de funções que este repositório foi criado. Esta lista de exercícios contém, ao todo, 10 (dez) problemas baseados em situações do nosso cotidiano. Cada exercício propõe utilizar diferentes conceitos relacionados às funções dentro da linguagem de programação *Python*, tais como *lambdas*, *closures*, funções embutidas (*built-in*) e até recursividade. <br>
 
 > [!NOTE]
-> Todos os 10 (dez) casos e os objetivos de aprendizagem foram criados pela *Alura* no curso *Praticando Python: Funções* (Link disponível na seção de contatos), enquanto as resoluções apresentadas, e a redação e organização do README são de minha autoria, compartilhadas para fins acadêmicos e demonstração profissional. <br> <br>
+> Todos os 10 (dez) casos e os objetivos de aprendizagem foram criados pela *Alura* no curso *Praticando Python: Funções* (Link disponível na seção de contatos), enquanto as resoluções apresentadas, e a redação e organização do README são de minha autoria, compartilhadas para fins acadêmicos e demonstração profissional.
+
+<br>
 
 ## 🎯 Objetivos do Treinamento
 
