@@ -25,7 +25,7 @@ Todo programa é composto por várias partes pequenas que, juntas, formam uma so
 Entre as diversas formas de aprendizagem, a prática constante está entre as mais eficiêntes para consolidar conhecimentos e é buscando aprofundar e treinar o conhecimento de funções que este repositório foi criado. Esta lista de exercícios contém, ao todo, 10 (dez) problemas baseados em situações do nosso cotidiano. Cada exercício propõe utilizar diferentes conceitos relacionados às funções dentro da linguagem de programação *Python*, tais como *lambdas*, *closures*, funções embutidas (*built-in*) e até recursividade. <br>
 
 > [!NOTE]
-> Todos os 10 (dez) casos e os objetivos de aprendizagem foram criados pela *Alura* no curso *Praticando Python: Funções* (Link disponível na seção de contatos), enquanto as resoluções apresentadas, e a redação e organização do README são de minha autoria, compartilhadas para fins acadêmicos e demonstração profissional.
+> Todos os 10 (dez) casos e os objetivos de aprendizagem foram criados pela ***Alura*** no curso ***Praticando Python: Funções*** (Link disponível na seção de contatos), enquanto as resoluções apresentadas, e a redação e organização do README são de minha autoria, compartilhadas para fins acadêmicos e demonstração profissional.
 <br>
 
 ## 🎯 Objetivos do Treinamento
